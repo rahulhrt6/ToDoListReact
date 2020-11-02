@@ -1,0 +1,22 @@
+.row-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+}
+
+.task-list-row{
+    height: 2.4em;
+    border: 2px solid gray;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: rgb(47, 252, 255);
+    font-weight: bold;
+}
+
+
+.div-icon{
+    margin-left: 1em;
+}

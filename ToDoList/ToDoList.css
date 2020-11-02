@@ -1,0 +1,45 @@
+.task-input{
+    border: 2px solid #999999;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.1); 
+    color: orange;
+    height: 2.4em;
+    padding: 0.5em; 
+    margin-right: 1%;
+    width: 35%
+}
+
+.priority-dropdown{
+    border: 2px solid #999999;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.1); 
+    height: 2.4em;
+    color: orange;
+    margin-right: 1%;
+    width: 10%
+}
+
+.task-date{
+    border: 2px solid #cccccc;
+    border-radius: 5px;
+    background-color: teal;
+    height: 2.4em;
+    color: white;
+    margin-right: 1%;
+    width: 15%
+}
+
+.popup-header{
+    margin: 0.25em;
+    font-weight: bold;
+    color:red;
+    background-color: gray;
+}
+
+.popup-text{
+    padding: 1em;
+    margin: 0.25em;
+    background-color: gray;
+    color: aqua;
+    font-weight: bold;
+}
